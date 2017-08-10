@@ -1,0 +1,11 @@
+{
+  "name": "product-to-json",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Kennedy Rose <krose@escaladesports.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^4.0.1",
+    "glob-promise": "^3.1.0"
+  }
+}
